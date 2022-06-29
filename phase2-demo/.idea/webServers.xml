@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="deeaf0e3-3756-4c75-b920-8e4074609df6" name="shared bootcamp server">
+        <fileTransfer accessType="SFTP" host="ddc-web-student.cnm.edu" port="22" sshConfigId="ad5165ee-978b-4b19-9748-23a3b08fa713" sshConfig="djurney@ddc-web-student.cnm.edu:22 agent" authAgent="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="OPEN_SSH" host="ddc-web-student.cnm.edu" id="ad5165ee-978b-4b19-9748-23a3b08fa713" port="22" nameFormat="DESCRIPTIVE" username="djurney" useOpenSSHConfig="true" />
+    </configs>
+  </component>
+</project>
